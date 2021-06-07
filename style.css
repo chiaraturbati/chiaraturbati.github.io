@@ -96,3 +96,14 @@ nav {
   background-size: 70%;
   position: relative;
 }
+
+#sceglierci {
+  background-color: #f8f5f8;
+  padding: 20px 0px 40px 0px;
+}
+#contattaci {
+  padding: 20px 0px 40px 0px;
+}
+#servizi {
+  padding: 10px 0px 40px 0px;
+}
