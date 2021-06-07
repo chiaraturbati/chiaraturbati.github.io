@@ -54,6 +54,7 @@ nav {
   background-color: #f7ec3d !important;
   text-transform: uppercase;
   border-color: rgba(82, 43, 43, 1.4);
+  border-radius: 10px;
 }
 .btn-custom:hover {
   background-color: #f7ec3d !important;
@@ -70,13 +71,65 @@ nav {
   border-radius: 50%;
   /* display: inline-block; */
 }
-.circle-yellow {
+.circle2 {
+  height: 55px;
+  width: 55px;
+  border: 1x solid grey;
+  padding: 10px;
+  background-color: #f7ec3d;
+  border-radius: 50%;
+  /* display: inline-block; */
+}
+.circle3 {
+  height: 55px;
+  width: 55px;
+  border: 1x solid grey;
+  padding: 15px;
+  background-color: #f7ec3d;
+  border-radius: 50%;
+  /* display: inline-block; */
+}
+.circle4 {
+  height: 55px;
+  width: 55px;
+  border: 1x solid grey;
+  padding: 13px 9px;
+  background-color: #f7ec3d;
+  border-radius: 50%;
+  /* display: inline-block; */
+}
+.circle-servizi-1 {
   height: 245px;
   width: 245px;
   border: 5px solid #f7ec3d !important;
-
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url("./img/couple-talking-marriage-counselor-during-therapy.jpeg");
   border-radius: 50%;
-  /* display: inline-block; */
+}
+.circle-servizi-2 {
+  height: 245px;
+  width: 245px;
+  border: 5px solid #f7ec3d !important;
+  background-size: cover;
+  background-image: url("./img/children-board-sea-yacht-drinking-orange-juice-teen-child-girls-against-blue-sky-outdoor.jpeg");
+  border-radius: 50%;
+}
+.circle-servizi-3 {
+  height: 245px;
+  width: 245px;
+  border: 5px solid #f7ec3d !important;
+  background-size: cover;
+  background-image: url("./img/children-board-sea-yacht-drinking-orange-juice-teen-child-girls-against-blue-sky-outdoor.jpeg");
+  border-radius: 50%;
+}
+.circle-servizi-4 {
+  height: 245px;
+  width: 245px;
+  border: 5px solid #f7ec3d !important;
+  background-size: cover;
+  background-image: url("./img/children-board-sea-yacht-drinking-orange-juice-teen-child-girls-against-blue-sky-outdoor.jpeg");
+  border-radius: 50%;
 }
 
 /* mettere ombreggiatura a SVG: 
@@ -107,3 +160,15 @@ nav {
 #servizi {
   padding: 10px 0px 40px 0px;
 }
+#chiSiamo {
+  padding: 10px 0px 40px 0px;
+  background-color: #f8f8f2;
+}
+/* 
+.card-custom {
+  border-radius: 50px;
+  box-shadow: 20px 20px 60px #d9d9d9, -20px -20px 60px #ffffff;
+  background-color: white;
+  margin: 2px 5px;
+  padding: 10px 10px;
+} */
